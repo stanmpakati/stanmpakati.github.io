@@ -21,6 +21,7 @@
     "lite-server": "^2.6.1"
   },
   "dependencies": {
-    "bootstrap": "^5.0.2"
+    "bootstrap": "^5.0.2",
+    "tailwind": "^4.0.0"
   }
 }
